@@ -27,4 +27,4 @@ function Cards({item , width}) {
   )
 }
 
-export default Cards
+export default Cards;

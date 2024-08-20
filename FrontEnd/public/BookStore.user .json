@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "66b121aa35316159bde63ac0"
+  },
+  "fullname": "Alice Johnson",
+  "mobile": 1234567890,
+  "email": "alice.johnson@example.com",
+  "password": "hashed_password_1"
+},
+{
+  "_id": {
+    "$oid": "66b121aa35316159bde63ac1"
+  },
+  "fullname": "Bob Smith",
+  "mobile": {
+    "$numberLong": "9876543210"
+  },
+  "email": "bob.smith@example.com",
+  "password": "hashed_password_2"
+},
+{
+  "_id": {
+    "$oid": "66b121aa35316159bde63ac2"
+  },
+  "fullname": "Carol Davis",
+  "mobile": {
+    "$numberLong": "5555555555"
+  },
+  "email": "carol.davis@example.com",
+  "password": "hashed_password_3"
+},
+{
+  "_id": {
+    "$oid": "66b3dacc967568bde55dba85"
+  },
+  "fullname": "Samson",
+  "mobile": 1234567811,
+  "email": "sam@gmail.com",
+  "password": "$2a$10$ywOQeZrOpx51ts0TCdtys.Bo/q7rrl9dpOFtnN7JDFsWm0MYpv8da",
+  "__v": 0
+}]
